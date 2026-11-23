@@ -65,6 +65,10 @@ Os processos são acionados quando alterações são enviadas para a branch `mai
 
 Desenvolver conhecimentos em desenvolvimento web, versionamento de código, integração contínua e entrega contínua.
 
+## 🧪 Qualidade
+
+O projeto é validado automaticamente com HTMLHint e verificação de links antes da publicação.
+
 ---
 
 Desenvolvido por **Heitor Gonçalves Pereira**
